@@ -1,0 +1,12 @@
+generated: '2026-09-27'
+method: searched
+probe: true
+source: https://trust.backstroke.com/
+url: https://trust.backstroke.com/
+certifications:
+- SOC 2
+evidence:
+- source: https://trust.backstroke.com/
+  keywords:
+  - soc 2
+  - trust center
